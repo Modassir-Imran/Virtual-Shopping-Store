@@ -1,0 +1,14 @@
+{
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off"
+    }
+}
